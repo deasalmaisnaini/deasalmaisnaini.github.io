@@ -1,3 +1,4 @@
+```
 SOC-FE/
 │
 ├── .next/                    # Direktori build dari Next.js (dihasilkan secara otomatis)
@@ -44,3 +45,4 @@ SOC-FE/
 ├── package-lock.json         # File yang memastikan konsistensi versi dependensi yang diinstal
 ├── pm2.json                  # Konfigurasi untuk PM2, sebuah proses manager untuk Node.js
 └── README.md                 # Dokumentasi proyek
+```
